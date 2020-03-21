@@ -165,6 +165,20 @@
         }
     },
     {
+        "sourceFolder": "kp_liberation.rhspkl",
+        "missionName": "kp_liberation",
+        "map": "rhspkl",
+        "mapDisplay": "Song Bin Tanh",
+        "configFile": "kp_liberation_config.sqf",
+        "variables": {
+            "KP_liberation_preset_blufor": 15,
+            "KP_liberation_preset_opfor": 12,
+            "KP_liberation_preset_resistance": 6,
+            "KP_liberation_preset_civilians": 5,
+            "KP_liberation_arsenal": 10
+        }
+    },
+    {
         "sourceFolder": "kp_liberation.Takistan",
         "missionName": "kp_liberation",
         "map": "Takistan",
